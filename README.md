@@ -26,6 +26,13 @@
 - 클린 아키텍처와 객체지향 설계
 - RESTful API 설계 및 보안
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kbonging&count_private=true&show_icons=true&theme=solarized-light" />
+</p>
+
+
 ## 📌 프로젝트 경험
 ### 🛒 [프로젝트명 - 예: 쇼핑몰 백엔드 개발]
 - Spring & MyBatis 기반 로그인/회원가입 구현
