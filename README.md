@@ -1,4 +1,4 @@
-# 👋 안녕하세요! 백엔드 개발자 OOO입니다
+# 👋 안녕하세요! 웹 개발자 김봉중입니다.
 
 저는 **성능**과 **확장성**, **안정성**을 중시하는 백엔드 개발자입니다.  
 끊임없이 배우고, 함께 성장하는 개발 문화를 좋아합니다.  
@@ -26,11 +26,6 @@
 - 클린 아키텍처와 객체지향 설계
 - RESTful API 설계 및 보안
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kbonging&count_private=true&show_icons=true&theme=solarized-light" />
-</p>
 
 
 ## 📌 프로젝트 경험
